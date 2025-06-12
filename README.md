@@ -7,8 +7,8 @@ Skills: PyTorch basics, CNNs, transfer learning, data augmentation, evaluation m
 
 Code can be found (here).[Image-Classification-with-Transfer-Learning]
 
-## 2. NLP Sentiment Analyzer with LSTM or Transformers
-Summary: Build a sentiment analysis model on a dataset like IMDB, Yelp, or Twitter using LSTM, GRU, or HuggingFace Transformers.
+## 2. NLP Sentiment Analyzer with a Transformers
+Summary: Build a sentiment analysis model on a dataset like IMDB, Yelp, or Twitter using  HuggingFace Transformers.
 Skills: Text preprocessing, embeddings, RNNs or Transformers, sentiment classification.
 
 
@@ -16,13 +16,13 @@ Skills: Text preprocessing, embeddings, RNNs or Transformers, sentiment classifi
 Summary: Use a real-world dataset (e.g., from Kaggle or UCI) to predict house prices, credit risk, or customer churn.
 Skills: Handling missing data, feature engineering, neural networks for tabular data, model interpretability.
 
-Bonus: Compare your model to XGBoost or LightGBM results.
+Bonus: Compare your model to XGBoost.
 
 ## 4. Image-to-Image Translation with GANs
 Summary: Train a Pix2Pix or CycleGAN model to convert sketches to colored images, day to night, or maps to satellite photos.
 Skills: GANs, image processing, model training stability, creative applications.
 
 ## 5. Time Series Forecasting
-Summary: Forecast stock prices, energy consumption, or weather trends using a combination of LSTM, CNN, or Transformer models.
+Summary: Forecast stock prices trends using a combination of LSTM and Prophet.
 Skills: Time series preprocessing, sequential modeling, PyTorch DataLoaders for sequences.
 
