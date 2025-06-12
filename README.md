@@ -18,8 +18,8 @@ Skills: Handling missing data, feature engineering, neural networks for tabular 
 
 Bonus: Compare your model to XGBoost.
 
-## 4. Image-to-Image Translation with GANs
-Summary: Train a Pix2Pix or CycleGAN model to convert sketches to colored images, day to night, or maps to satellite photos.
+## 4. Face Generations of Celebrities with GANs
+Summary: Train a GAN model to Generate celebrity face using celebrity data.
 Skills: GANs, image processing, model training stability, creative applications.
 
 ## 5. Time Series Forecasting
