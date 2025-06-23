@@ -1,6 +1,13 @@
 # PyTorch Recipes for a Portfolio
 PyTorch has become the leading Deep Learning Framework. Since Deep Learning is taking over and becoming more common than TensorFlow. Here is a few examples projects to get started with PyTorch [ecosystem](https://opensource.fb.com/projects/pytorch/). 
 
+## Adding more Projects
+As cooler ideas in ML come into play more ideas will be added here to the collection.
+These are projects to be added.
+- Building a ChatGPT using Wikipedia Data.
+- Build an LLM using OpenAI.
+- Create an AI agent using PyTorch and OpenAI.
+
 ![PyTorch](/assets/images/pytorch-dark-background.png)
 
 A Repo of 5 simple but useful PyTorch projects you can use to show off in a portfolio. 
